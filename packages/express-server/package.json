@@ -1,0 +1,12 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "socket io server",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "mko",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
